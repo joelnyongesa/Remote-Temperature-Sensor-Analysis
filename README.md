@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes temperature data collected from four remote sensors (T1-T4) to monitor variations over time. The analysis focuses on ensuring temperatures remain within the ideal operational range (27-30°C) to protect electrical components. The Jupyter notebook includes data preprocessing, visualization, and timezone adjustments for insights into daily temperature trends.
 
-![Temperature Trends Visualization](https://via.placeholder.com/600x400 "Hourly Temperature Trends")
+![Temperature Trends Visualization](https://github.com/joelnyongesa/Remote-Temperature-Sensor-Analysis/blob/main/avg-trends.png "Hourly Temperature Trends")
 
 ## Features
 - **Data Preprocessing**: Handles datetime conversion, timezone adjustments, and missing value checks.
