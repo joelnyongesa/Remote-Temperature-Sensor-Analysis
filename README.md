@@ -21,7 +21,7 @@ This project analyzes temperature data collected from four remote sensors (T1-T4
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/remote-temperature-analysis.git
+   git clone git@github.com:joelnyongesa/Remote-Temperature-Sensor-Analysis.git
    ```
 2. **Install Dependencies**
   ```bash
